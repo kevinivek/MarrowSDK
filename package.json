@@ -27,5 +27,8 @@
     "url": "http://www.stresslevelzero.com/"
   },
   "unityRelease": "5f1",
-  "hideInEditor": false
+  "hideInEditor": false,
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@kevinivek"
+  }
 }
