@@ -28,6 +28,11 @@
   },
   "unityRelease": "5f1",
   "hideInEditor": false,
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:kevinivek/MarrowSDK.git", 
+    "directory": "com.stresslevelzero.marrow.sdk"
+  },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@kevinivek"
   }
