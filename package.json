@@ -1,6 +1,6 @@
 {
   "name": "com.stresslevelzero.marrow.sdk",
-  "version": "0.3.77",
+  "version": "0.3.7-1748",
   "displayName": "Marrow SDK",
   "description": "Marrow Software Development Kit. Used to create content with Pallets and Crates for Marrow based games.",
   "unity": "2021.3",
@@ -27,13 +27,5 @@
     "url": "http://www.stresslevelzero.com/"
   },
   "unityRelease": "5f1",
-  "hideInEditor": false,
-  "repository": {
-    "type": "git",
-    "url": "ssh://git@github.com:kevinivek/MarrowSDK.git", 
-    "directory": "com.stresslevelzero.marrow.sdk"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@kevinivek"
-  }
+  "hideInEditor": false
 }
